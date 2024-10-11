@@ -22,6 +22,7 @@ The dataset can also be accessed from the UCI Machine Learning Repository:
    ```R
    install.packages("class")
    install.packages("gmodels")
+   install.packages('caret')
 
 
 # Dependencies
